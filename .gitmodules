@@ -1,0 +1,15 @@
+[submodule "privatezilla"]
+	path = privatezilla
+	url = https://github.com/builtbybel/privatezilla
+[submodule "debotnet"]
+	path = debotnet
+	url = https://github.com/builtbybel/debotnet
+[submodule "DisableWinTracking"]
+	path = DisableWinTracking
+	url = https://github.com/bitlog2/DisableWinTracking
+[submodule "Debloat-Windows-10"]
+	path = Debloat-Windows-10
+	url = https://github.com/W4RH4WK/Debloat-Windows-10
+[submodule "WindowsSpyBlocker"]
+	path = WindowsSpyBlocker
+	url = https://github.com/crazy-max/WindowsSpyBlocker
